@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cigarette électrique</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Menu</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Accueil</string>
+    <string name="menu_arome">Arôme</string>
+    <string name="menu_booster">Booster</string>
+    <string name="menu_admin">Admin</string>
+    <string name="menu_admin_arome">Ajouter un arome</string>
+    <string name="menu_admin_booster">Ajouter un booster</string>
+</resources>
