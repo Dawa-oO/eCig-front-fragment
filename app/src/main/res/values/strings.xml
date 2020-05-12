@@ -12,4 +12,10 @@
     <string name="menu_admin">Admin</string>
     <string name="menu_admin_arome">Ajouter un arome</string>
     <string name="menu_admin_booster">Ajouter un booster</string>
+
+    <string name="home_fragment">Home fragment</string>
+    <string name="arome_fragment">Arome fragment</string>
+    <string name="booster_fragment">Booster fragment</string>
+    <string name="admin_arome_fragment">Admin Arome fragment</string>
+    <string name="admin_booster_fragment">Admin Booster fragment</string>
 </resources>
