@@ -4,8 +4,9 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Menu</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <!--<string name="action_settings">Settings</string>-->
 
+    <!-- Menu labels-->
     <string name="menu_home">Accueil</string>
     <string name="menu_arome">Arôme</string>
     <string name="menu_booster">Booster</string>
@@ -18,4 +19,16 @@
     <string name="booster_fragment">Booster fragment</string>
     <string name="admin_arome_fragment">Admin Arome fragment</string>
     <string name="admin_booster_fragment">Admin Booster fragment</string>
+
+    <!-- Placeholders -->
+    <string name="ph_qty">Quantité</string>
+    <string name="ph_capacity">Capacité</string>
+    <string name="ph_note">Note</string>
+    <string name="create">Créer</string>
+    <string name="image">Image...</string>
+    <string name="ph_marque">Marque</string>
+    <string name="ph_pgvg">Pgvg</string>
+    <string name="ph_arome">Arôme</string>
+
+
 </resources>
